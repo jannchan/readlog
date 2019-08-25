@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 '''
-Created on Aug 23, 2019 20190825
+Created on Aug 23, 2019
 
 @author: chen
 '''
